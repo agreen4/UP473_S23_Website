@@ -1,0 +1,28 @@
+---
+title: "Homeownership"
+format: html
+toc: true
+editor: visual
+---
+
+## Description
+
+This week, we\'ll explore the dynamics of homeownership in the United States, focusing on the evolution of access to capital for homeownership and how disparities in access to capital have important consequences for certain populations. We\'ll think about the evolution of the U.S. banking system and the ways in which financial innovation have changed who bears the risk in lending capital for homeownership. We\'ll also think about how those changes shift risk away from banks and towards capital investors and housing consumers.
+
+## Learning Goals
+
+## Readings
+
+## Slides
+
+## Additional Resources
+
+-    [Should the Community Reinvestment Act Consider Race?](https://www.urban.org/sites/default/files/publication/105283/should-the-community-reinvestment-act-consider-race_1.pdf)
+
+-    [Black Homeowners Face Discrimination in Appraisals](https://www.nytimes.com/2020/08/25/realestate/blacks-minorities-appraisals-discrimination.html)
+
+-    [Financial Crisis Inquiry Commission Report](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf)
+
+-    [Renuart, Elizabeth, An Overview of the Predatory Mortgage Lending Process](https://uofi.box.com/s/p04el32z1mns3j6xm2jvao7q6a5af4u6)
+
+-    [How the Real Estate Boom Left Black Neighborhoods Behind - What Would it Take to Catch Up?  ](https://www.nytimes.com/2021/12/12/podcasts/the-daily/the-sunday-read-how-the-real-estate-boom-left-black-neighborhoods-behind.html)

@@ -1,0 +1,38 @@
+---
+title: "Housing Policy Analysis"
+format: html
+toc: false
+editor: visual
+---
+
+Drawing directly from the analysis and arguments you made in your first and second assignments, your final assignment asks you to propose a housing policy intervention intended to impact your local housing market. Your analysis should be directed towards a professional audience consisting of planners and other decision-makers, and should be appropriately targeted towards institutions and decisionmakers that best correspond to the geography(ies) which are dictated by the issues which your policy targets.
+
+Your analysis needs to accomplish several things:
+
+1.  **Define** -- your report needs to provide background on the nature and extent of the problem or phenomenon which your proposed policy intervention will target. Drawing from your prior analyses, summarize the nature of the problem, the populations impacted, and the public costs or impacts associated with the problem.
+
+2.  **Review** -- your report needs to review... a. How the problem has been addressed in your place in the past, highlighting policy impacts and unmet needs. b. How the problem has been dealt with in other contexts. What strategies have been applied, and how effective have they been? At what geographic scales have other policies been implemented? How have these policies impacted the population your policy seeks to target? What are the trade-offs associated with these different approaches?
+
+3.  **Propose** -- your report needs to propose a new or different policy intended to address the problem.
+
+a. *Policy Overview* -- provide a detailed description of the elements of the policy. Through what mechanisms does it create change? How does it interface with other existing policies? How does it relate to the policies you reviewed in Section 2?
+
+b. *Local Precedents* -- what preexisting goals, policies, or plans support the adoption of your policy?
+
+c. *Eligibility or Impact Criteria* -- how will the policy selectively target populations at need? How does targeting meet policy goals without creating the potential for disparate impact?
+
+d. *Spatial Impact* -- which areas, neighborhoods, and populations will be impacted by your policy? How different is your policy\'s prospective impact across space?
+
+e. *Timeline, Outcomes and Measures* -- what are the intended outcomes to be observed if your policy is successfully implemented? Over what period of time will implementation occur? Describe intended outcomes in terms of hard numbers or targets (e.g. 5,000 more affordable housing units serving households at 50%-80% AMI in 10 years). What measures or indicators are the most important ways to identify the success (or failure) of your policy?
+
+f. *Cost and Impact* -- provide a rough estimate of the cost of your proposal. How does this cost compare to continuing in the current fashion (business as usual)? How does this cost (and related benefits) accrue over the next 5, 10, and 20 years?
+
+4.  **Strategize and Summarize** -- Summarize your policy, its impacts, and its benefits. Provide an assessment of the next steps towards policy debate and implementation.
+
+Please note that there are slightly different outputs from this assignment for undergraduate and graduate students (listed below).
+
+### Outputs 
+
+Prepare a polished memorandum of approximately 5,000 words. Your memo should be targeted towards a professional audience and should include sufficient analysis evidence for other experts and decision makers in your housing market to weigh the strengths of your claims. The judicious use of maps, imagery, and tables should be included to support your analysis.
+
+\

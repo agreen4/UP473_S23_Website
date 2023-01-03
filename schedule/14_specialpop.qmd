@@ -1,0 +1,34 @@
+---
+title: "Housing Special Populations"
+format: html
+toc: true
+editor: visual
+---
+
+## Description
+
+Our nation\'s housing delivery system works well for some, but there are other specialized populations that require additional outreach and support. This week, we will examine the unique housing needs of both homeless individuals and individuals with disabilities, and will explore the range of policy tools and strategies to provide inclusive, long-term housing solutions.
+
+## Learning Goals
+
+## Readings
+
+## Slides
+
+## Additional Resources
+
+-    99% Invisible: According to Need
+
+    -    [Chapter 1: Tulicia](https://99percentinvisible.org/episode/according-to-need-chapter-1-tulicia/)
+
+    -    [Chapter 2: The Hotline](https://99percentinvisible.org/episode/according-to-need-chapter-2-the-homelessness-hotline/)
+
+    -    [Chapter 3: Housing First](https://99percentinvisible.org/episode/according-to-need-chapter-3-housing-first/)
+
+    -    [Chapter 4: The List](https://99percentinvisible.org/episode/according-to-need-chapter-4-the-list/)
+
+    -    [Chapter 5: Housing Finally](https://99percentinvisible.org/episode/according-to-need-chapter-5-housing-finally/)
+
+-    Seattle Times - [She Didn\'t Want to Die Homeless. But in Seattle, There Were Few Places To Turn.](https://www.seattletimes.com/seattle-news/homeless/she-didnt-want-to-die-without-a-home-but-even-with-cancer-she-had-few-options-in-seattle/)
+
+-    [Together as a Family: Multigenerational Living Rises in a Pandemic](https://www.washingtonpost.com/realestate/together-as-a-family-multigenerational-living-rises-in-pandemic/2021/05/12/bd8598f6-a900-11eb-8d25-7b30e74923ea_story.html)

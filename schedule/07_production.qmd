@@ -1,0 +1,28 @@
+---
+title: "Housing Production Strategies"
+format: html
+toc: true
+editor: visual
+---
+
+## Description
+
+This week we will examine a range of housing production strategies, many that involve public-private partnerships or incentives to deliver affordable housing. We\'ll also talk about the Opportunity Zone program which leverages tax benefits to investors for investments in eligible underinvested neighborhoods.
+
+## Learning Goals
+
+## Readings
+
+Schwartz
+
+-   Chapter 4
+
+-   Chapter 5
+
+-   Chapter 7
+
+-   Chapter 8
+
+## Slides
+
+## Additional Resources

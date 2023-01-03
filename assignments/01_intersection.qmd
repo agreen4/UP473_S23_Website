@@ -1,0 +1,7 @@
+---
+title: "Exploring an Intersection"
+format: html
+toc: false
+editor: visual
+---
+

@@ -1,0 +1,116 @@
+---
+title: "Local Housing Market Analysis"
+format: html
+toc: false
+editor: visual
+---
+
+In seeking to intervene in local and regional housing environments, housing policy analysts face the challenge of describing past and present housing dynamics while also looking towards the future. This assignment asks you to practice these skills by developing an in-depth understanding of a regional housing market of your choice.
+
+At a most basic level, housing policy analysts have to
+
+a\) describe the geography and composition of the housing market(s) they are analyzing;
+
+b\) describe who gets what housing in those markets; and,
+
+c\) describe the economic environment in which the housing markets operate.
+
+After distilling salient trends and features, housing policy analysts can then identify the overall health and function of the housing market, likely future influences, and special populations that should receive particular care or intervention.
+
+In this assignment, you will begin defining and exploring a housing market of your choice, focusing on current conditions and housing market trends within the last 10 years. You will use multiple sources of secondary data to describe the local housing market, its demographic and economic conditions, trends for renters and owners, and likely future influences. You will also identify one or more specialized populations and will briefly describe their housing needs (your third assignment asks you to build upon your analysis by performing a detailed housing needs assessment for the specialized population you identify).
+
+Your housing market analysis should describe the following:
+
+-    **Demographic Conditions:** What are the salient demographic characteristics of the households in your housing market?
+
+-    **Economic Conditions:** What local or regional economic conditions shape the housing environment? How do the types of jobs that people have shape the economic environment for housing? How does housing consumption influence the local economic environment?
+
+-    **Trends by Tenure:** How do changes in the housing market differ for renters and owners?
+
+-    **Future Influences:** Based upon the recent past, what are likely future influences within the local housing market?
+
+-    **Specialized Populations:** Based upon your analysis of demographic conditions, economic conditions, and housing market trends, what specialized populations emerge who are particularly likely to face housing vulnerability in the future or who will be disparately impacted by the future influences you identify?
+
+### The Deliverable 
+
+Prepare your profile as a memorandum of approximately 3,000 words (6 single-spaced pages, excluding tables, illustrations, and references). Your memorandum should include sufficient analysis and properly referenced evidence for another housing market expert to measure the strength and validity of your assertions. The judicious use of maps, imagery, and tables should be included to support your analysis.
+
+In preparing your analysis, you may want to first look for other recent analyses of your local market. Good starting places would be to search for the most recent Analysis of Impediments to Fair Housing, local Analysis of Fair Housing, HUD Comprehensive Housing Market Analysis, or for housing analysis completed as part of a neighborhood, local, or regional plan.
+
+Please also note that I am not specifying or constraining the geography which you are required to conduct your analysis at. In selecting a particular geography, you\'ll need to think carefully about what make sense -- how does a particular geography constitute a housing market (or series of submarkets)? You will need to describe the definition you select and will need to justify your choice. Once you do, you should also plan to compare the characteristics of your local housing market (however you define it) to its region and the state in which it\'s located.
+
+I encourage you to reach out to me as you work to define your market, to get confirmation that you have selected an appropriate geography. Keep in mind that you will be working with this selection over the course of the semester for your remaining assignments in the class.
+
+### Data Resources and Analytical Guidance 
+
+Our [class data repository](https://github.com/agreen4/UP-473-S22-Code) includes R scripts as well as data tables for the primary indicators mentioned in this assignment.
+
+The Census Bureau\'s American Community Survey (ACS) is the first place to look for data that will help you to describe your housing market. The [data.census.gov](https://data.census.gov/) website allows you to query data for different survey years and geographies. To help you get started, I have downloaded data for the 2010 and 2019 5-year American Community Surveys at the census place level which are accessible on the course Box site. To successfully complete the assignment, you may also want to download data for other geographies or time periods on your own.
+
+Below, you will find helpful information including ACS table numbers (e.g. the population table is B01003) as well as some guidance on initial analytical steps that will help you get started with your analysis:
+
+-   **Population Demographics:** Examine the demographic characteristics for your place and describe who lives here. Explore other ACS tables that may prove insightful. In reporting out demographic conditions, produce your own summaries of elements from ACS tables instead of reporting tables verbatim.
+
+| **INDICATOR**           | **ACS TABLE NUMBER** |
+|-------------------------|----------------------|
+| Population              | B01003               |
+| Race B02001             |                      |
+| Latino Ethnicity        | B03002               |
+| Age                     | B01001               |
+| Household Size          | B25010               |
+| Foreign Born Population | B05002               |
+
+-   **Economic Conditions:** Determine the median income for your housing market, as well as the incomes for those earning 120%, 80%, 50%, and 30% of median income
+
+| **INDICATOR**           | **ACS TABLE NUMBER** |
+|-------------------------|----------------------|
+| Median Household Income | B19013               |
+| Vacancy Rate            | B25002               |
+
+-   **Trends by Tenure:** Determine housing affordability for renters and owners at median income, 120%, 80%, 50%, and 30% of median income (remember that the federal standard for housing affordability is 30% of median income). Your analysis should compare monthly income to the median rent and owner costs (which are reported as monthly statistics) to determine for which percentages of median income the median priced housing unit is affordable.
+
+Determine what percentage of median income is required to be able to afford the median rent and mortgage payments in your housing market.
+
+| **INDICATOR**      | **ACS TABLE NUMBER** |
+|--------------------|----------------------|
+| Tenure             | B25003               |
+| Median Rent        | B25064               |
+| Median Owner Costs | B25088               |
+
+-    **Future Influences:** To examine future influences, you are going to perform some very crude projections of housing characteristics. You will find more information on performing these projections at the very end of this assignment.
+
+    -    Based upon housing costs in 2010 and 2019, project housing costs for owners and renters to the year 2030.
+
+    -    Based upon the median income in 2010 and 2019 project median income for 2030. What percentile of median income will be required in 2030 to afford to rent a median priced housing unit? What percentile of median income will be required to pay the mortgage on a median housing unit?
+
+    -    Based upon change in housing units from 2010 and 2019, project the number of housing units that will be constructed in your place by 2030.
+
+    -    How many new households do you project will live in your place by 2030? To calculate this, project the population to 2030 as well as the average household size and then use the ratio of population to average household size to approximate households.
+
+### Performing Simple Projections 
+
+One of the simplest methods of projection is to fit a line between two sets of observed points, and then project future values based upon that line.
+
+You may remember from your past geometry training that the slope of a line can be calculated as follows:
+
+slope = (y2−y1)(x2−x1)
+
+Let\'s calculate the change in population for a hypothetical location called Busytown. In 2010, the population of Busytown was 8,000 and by 2020 the population was 9,750. Here\'s how we would find the annual rate of population change for Busytown between 2010 and 2020:
+
+change = (9750−8000)(2020−2010)=175010=175
+
+Busytown\'s population increased by 1,750 over 10 years -- an increase of 175 people per year. If we assume that future population will grow at the same rate per year, we can now calculate the future population for Busytown in any future time period:
+
+PopulationFuture=PopulationBase+Change∗TimePeriods
+
+Here\'s the equation for Busytown assuming a base year of 2020, and projecting the population to 2030, which is 10 years in the future:
+
+PopulationFuture=9750+175∗10
+
+Therefore, we project that if the population grows at the same rate it did between 2010 and 2020, the total population will be 9,750 + 3,250 = 11,500 in 2030.
+
+### Assignment Submission 
+
+Please submit your assignment components electronically via your Box Assignment Dropbox.
+
+\

@@ -1,0 +1,24 @@
+---
+title: "Public Housing"
+format: html
+toc: true
+editor: visual
+---
+
+## Description
+
+## Learning Goals
+
+## Readings
+
+Schwartz
+
+-    Chapter 6
+
+-    Chapter 7
+
+## Slides
+
+## Additional Resources
+
+-   [Greenlee, Lee, and McNamara, Performance of Small Public Housing Authorities: Opportunities and Barriers](https://www.jstor.org/stable/26524883?seq=1#metadata_info_tab_contents)

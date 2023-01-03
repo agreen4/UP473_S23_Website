@@ -1,0 +1,16 @@
+---
+title: "Government Intervention in Housing"
+format: html
+toc: true
+editor: visual
+---
+
+## Description
+
+## Learning Goals
+
+## Readings
+
+## Slides
+
+## Additional Resources

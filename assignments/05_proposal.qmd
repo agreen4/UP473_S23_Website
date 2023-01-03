@@ -1,0 +1,16 @@
+---
+title: "Housing Policy Platform"
+format: html
+toc: false
+editor: visual
+---
+
+Following the guidance in the Housing Policy Memo prompt, Master\'s students will produce a more fully developed housing policy platform with two outputs:
+
+1.  Prepare a polished report of approximately 5,000 words. Your report should be targeted towards a professional audience and should include sufficient analysis and properly referenced evidence for other experts and decision makers in your housing market to weigh the strengths of your claims. The judicious use of maps, imagery, and tables should be included to support your analysis.
+
+2.  Write an op-ed targeting the news venue of your choice that makes a public argument summarizing your problem, the costs of inaction, and the benefits of your proposed course of action. In general, your op ed should be between 600 and 800 words in length, although you should follow the guidelines posted for the target venue you would hypothetically publish your op ed in. The following resources may be useful in strategizing around your op ed: [The Op Ed Project](https://www.theopedproject.org/), [Op Ed Length](https://phairadvantage.com/2014/09/more-than-you-wanted-to-know-about-op-ed-length/), [Centre for Policy Writing](https://cepow.org/tips-tricks-for-op-ed-writing/).
+
+### Assignment Submission 
+
+Please submit your assignment components electronically via Illinois your Box Assignment Dropbox.

@@ -70,7 +70,7 @@ website:
             - text: "Week 15: Independent Work and Advising"
               file: schedule/15_indwork.qmd
             - text: "Week 16: Class Presentations and Course Wrap-Up"
-              file: schedule/15_wrapup.qmd
+              file: schedule/16_wrapup.qmd
 
     - title: "Assignments"
       contents:
