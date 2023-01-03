@@ -1,0 +1,117 @@
+project:
+  type: website
+  render: 
+    - "*.qmd"
+
+execute: 
+  freeze: auto
+  
+website:
+  title: "Housing and Urban Policy"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: syllabus/index.qmd
+        text: Syllabus
+      - href: schedule/index.qmd
+        text: Schedule
+      - href: assignments/index.qmd
+        text: Assignments
+      - href: resources/index.qmd
+        text: Resources
+    search: true
+  favicon: favicon.png
+  page-footer:
+    left: "Content {{< fa regular copyright >}} Andrew J. Greenlee"
+    right: "Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/) </br> Website Code on [Github {{< fa brands github >}}]({{< var course.github >}})"
+
+  sidebar:
+    - title: "Schedule"
+      contents:
+        - section: "Schedule Overview"
+          contents:
+            - text: "Course Schedule"
+              file: schedule/index.qmd
+        - section: "Policy Overview"
+          contents:
+            - text: "Week 1: Course Introduction"
+              file: schedule/01_introduction.qmd
+            - text: "Week 2: How Well Are we Housed?"
+              file: schedule/02_housed.qmd
+            - text: "Week 3: Government Intervention in Housing"
+              file: schedule/03_government.qmd
+            - text: "Week 4: Homeownership"
+              file: schedule/04_homeownership.qmd
+            - text: "Week 5: Public Housing"
+              file: schedule/05_publichousing.qmd
+            - text: "Week 6: Federally Assisted Housing"
+              file: schedule/06_fedassisted.qmd
+            - text: "Week 7: Housing Production Strategies"
+              file: schedule/07_production.qmd
+        - section: "Policy Impacts"
+          contents:
+            - text: "Week 8: The Enduring Significance of Neighborhoods"
+              file: schedule/08_neighborhoods.qmd
+            - text: "Week 9: Spring Break"
+              file: schedule/09_break.qmd
+            - text: "Week 10: Regulating Housing Environments"
+              file: schedule/10_hsgenv.qmd
+            - text: "Week 11: Eviction"
+              file: schedule/11_eviction.qmd
+            - text: "Week 12: Neighborhood Change"
+              file: schedule/12_neighborhoodchg.qmd
+            - text: "Week 13: Housing Market Discrimination"
+              file: schedule/13_fairhousing.qmd
+            - text: "Week 14: Housing Special Populations"
+              file: schedule/14_specialpop.qmd
+        - section: "Course Wrap-Up"
+          contents:
+            - text: "Week 15: Independent Work and Advising"
+              file: schedule/15_indwork.qmd
+            - text: "Week 16: Class Presentations and Course Wrap-Up"
+              file: schedule/15_wrapup.qmd
+
+    - title: "Assignments"
+      contents:
+        - section: "Overview"
+          contents:
+            - assignments/index.qmd
+        - section: "Assignments"
+          contents:
+            - text: "Exploring an Intersection"
+              file: assignments/01_intersection.qmd
+            - text: "Local Housing Market Analysis"
+              file: assignments/02_analysis.qmd
+            - text: "Housing Needs Analysis"
+              file: assignments/03_needs.qmd
+            - text: "Housing Policy Analysis"
+              file: assignments/04_policy.qmd
+            - text: "Policy Proposal"
+              file: assignments/05_proposal.qmd
+            - text: "Discussion Facilitation"
+              file: assignments/06_facilitation.qmd
+            - text: "Term Paper"
+              file: assignments/07_term.qmd
+
+
+    - title: "Resources"
+      contents:
+        - section: "Overview"
+          contents:
+            - resources/index.qmd
+        - section: "Resources"
+          contents:
+
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: 
+      - styles.css
+    toc: true
+
+editor: visual
+

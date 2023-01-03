@@ -1,0 +1,18 @@
+---
+title: "Assignments"
+format: html
+toc: false
+editor: visual
+---
+
+## 
+
+| Assignment                    | Undergraduate | Masters | Doctoral | Due Date    |
+|----------------------|-------------|---------|----------|------------------|
+| Exploring an Intersection     | 20%           | 10%     | 10%      | February 12 |
+| Local Housing Market Analysis | 20%           | 10%     |          | March 19    |
+| Housing Needs Analysis        | 20%           | 10%     |          | April 9     |
+| Housing Policy Analysis       | 30%           | 10%     |          | May 7       |
+| Housing Platform              |               | 40%     |          | May 12      |
+| Term Paper                    |               |         | 80%      | May 12      |
+| Discussion Facilitation       | 10%           | 10%     | 10%      | Varies      |
