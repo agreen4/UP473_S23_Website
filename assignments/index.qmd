@@ -8,7 +8,7 @@ editor: visual
 ## 
 
 | Assignment                                       | Undergraduate | Masters | Doctoral | Due Date    |
-|---------------|---------------|---------------|---------------|---------------|
+|--------------------------------------------------|---------------|---------|----------|-------------|
 | [Exploring an Intersection](01_intersection.qmd) | 20%           | 10%     | 10%      | February 12 |
 | [Local Housing Market Analysis](02_analysis.qmd) | 20%           | 10%     |          | March 19    |
 | [Housing Needs Analysis](03_needs.qmd)           | 20%           | 10%     |          | April 9     |

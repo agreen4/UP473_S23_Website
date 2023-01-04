@@ -107,7 +107,7 @@ website:
 format:
   html:
     theme:
-      light: flatly
+      light: [flatly, custom.scss]
       dark: darkly
     css: 
       - styles.css
