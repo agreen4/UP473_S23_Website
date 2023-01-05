@@ -26,7 +26,7 @@ UP 473 is designed as a seminar which compliments engagement and discussion with
 
 ## Course Materials
 
-Most course materials are accessible via our course website. Because this website is publicly accessible, some course materials are restricted access and available by logging in to your UIUC Box.net account. Some links especially to academic journal articles may also require you to log in via VPN if you are off campus.
+Most course materials are accessible via our course website. Because this website is publicly accessible, some course materials are restricted access and available by logging in to your [UIUC Box.net](https://box.illinois.edu) account. Some links especially to academic journal articles may also require you to [log in via VPN](https://answers.uillinois.edu/illinois/98773) if you are off campus.
 
 There is one required textbook which we will use of the course of the semester:
 
@@ -43,7 +43,7 @@ Please purchase a copy of this book from your preferred bookseller.
 This course requires your engagement both within and outside of our seminar sessions. Grading criteria include contribution to the course environment, quality of writing, depth of analysis, and thoughtful engagement with the subject matter and each other. You work will be graded on a 100-point scale:
 
 | Letter Grade | Point Range    | Description                                               |
-|-----------|-------------|------------------------------------------------|
+|---------------|---------------|-------------------------------------------|
 | A            | \> 90 Points   | Outstanding work, ready for publication and dissemination |
 | B            | 80 - 89 Points | Good work, work needs minor revision                      |
 | C            | 70 - 79 Points | Work needs major revision                                 |
@@ -56,7 +56,7 @@ Consistent contributions to discussion, thoughtful engagement with course materi
 
 You can find more information on grade elements on the [Assignments](assignments/index.qmd) page.
 
-All assignments should be submitted via your Box.net assignment dropbox as a PDF file (unless otherwise noted in the assignment). Late work will be automatically graded down by 5 points per 24-hour period your assignment is late, and will only be accepted if you have made arrangements with me prior to the assignment due date.
+All assignments should be submitted via [Canvas](https://canvas.illinois.edu) as a PDF file (unless otherwise noted in the assignment). Late work will be automatically graded down by 5 points per 24-hour period your assignment is late, and will only be accepted if you have made arrangements with me prior to the assignment due date.
 
 ### Attendance
 

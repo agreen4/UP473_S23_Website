@@ -21,7 +21,7 @@ b. *Local Precedents* -- what preexisting goals, policies, or plans support th
 
 c. *Eligibility or Impact Criteria* -- how will the policy selectively target populations at need? How does targeting meet policy goals without creating the potential for disparate impact?
 
-d. *Spatial Impact* -- which areas, neighborhoods, and populations will be impacted by your policy? How different is your policy\'s prospective impact across space?
+d. *Spatial Impact* -- which areas, neighborhoods, and populations will be impacted by your policy? How different is your policy's prospective impact across space?
 
 e. *Timeline, Outcomes and Measures* -- what are the intended outcomes to be observed if your policy is successfully implemented? Over what period of time will implementation occur? Describe intended outcomes in terms of hard numbers or targets (e.g. 5,000 more affordable housing units serving households at 50%-80% AMI in 10 years). What measures or indicators are the most important ways to identify the success (or failure) of your policy?
 
@@ -35,4 +35,6 @@ Please note that there are slightly different outputs from this assignment for u
 
 Prepare a polished memorandum of approximately 5,000 words. Your memo should be targeted towards a professional audience and should include sufficient analysis evidence for other experts and decision makers in your housing market to weigh the strengths of your claims. The judicious use of maps, imagery, and tables should be included to support your analysis.
 
-\
+## Assignment Submission
+
+Please submit your assignment electronically via Canvas.

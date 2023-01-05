@@ -5,7 +5,7 @@ toc: false
 editor: visual
 ---
 
-Following the guidance in the Housing Policy Memo prompt, Master\'s students will produce a more fully developed housing policy platform with two outputs:
+Following the guidance in the Housing Policy Memo prompt, Master's students will produce a more fully developed housing policy platform with two outputs:
 
 1.  Prepare a polished report of approximately 5,000 words. Your report should be targeted towards a professional audience and should include sufficient analysis and properly referenced evidence for other experts and decision makers in your housing market to weigh the strengths of your claims. The judicious use of maps, imagery, and tables should be included to support your analysis.
 
@@ -13,4 +13,4 @@ Following the guidance in the Housing Policy Memo prompt, Master\'s students wil
 
 ### Assignment Submission 
 
-Please submit your assignment components electronically via Illinois your Box Assignment Dropbox.
+Please submit your assignment electronically via Canvas.

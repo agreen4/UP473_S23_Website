@@ -5,7 +5,7 @@ toc: false
 editor: visual
 ---
 
-In your second assignment, you described elements of housing supply and demand and also identified the specific housing consumers present within your housing market. For this assignment, you will spend more time thinking about the housing needs associated with these consumers. Specifically, you will draw from elements of HUD\'s Assessment of Fair Housing methodology to analyze your housing market\'s demographics, patterns of spatial integration and segregation, and the intersectionality between housing and other needs. Together with your Housing Market Analysis, your Housing Needs Analysis will constitute the basis for your final assignment -- a housing policy platform -- which will focus on designing intervention to address the needs you identify within your local housing market.
+In your second assignment, you described elements of housing supply and demand and also identified the specific housing consumers present within your housing market. For this assignment, you will spend more time thinking about the housing needs associated with these consumers. Specifically, you will draw from elements of HUD's Assessment of Fair Housing methodology to analyze your housing market's demographics, patterns of spatial integration and segregation, and the intersectionality between housing and other needs. Together with your Housing Market Analysis, your Housing Needs Analysis will constitute the basis for your final assignment -- a housing policy platform -- which will focus on designing intervention to address the needs you identify within your local housing market.
 
 Drawing from the [HUD AFFH Guidebook](https://www.hud.gov/sites/dfiles/FHEO/documents/AFFH-Rule-Guidebook.pdf) and the [HUD AFFH Data](https://www.hud.gov/program_offices/fair_housing_equal_opp/affh), analyze the needs present within your local housing market. At a minimum, your housing needs analysis should address the following:
 
@@ -55,10 +55,10 @@ Prepare your assessment as a memorandum of around 3,000 words. Your memorandum s
 
 ### Data Notes 
 
-You will need to construct your own summaries from the AFFH Raw Data -- please note that this process is time-consuming -- leave yourself plenty of time to work through this. For more specifics on data and indicators, please also see HUD\'s data documentation.
+You will need to construct your own summaries from the AFFH Raw Data -- please note that this process is time-consuming -- leave yourself plenty of time to work through this. For more specifics on data and indicators, please also see HUD's data documentation.
 
 ### Assignment Submission 
 
-Please submit your assignment components electronically via your Box Assignment Dropbox.
+Please submit your paper electronically via Canvas.
 
 \

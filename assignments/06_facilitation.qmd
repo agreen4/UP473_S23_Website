@@ -5,15 +5,16 @@ toc: false
 editor: visual
 ---
 
+## Assignment Goals
+
 Our class depends upon all of us taking leadership for our course content, learning, and engagement. One way we will sustain our learning together is to take responsibility for discussion facilitation over the course of the semester. During the first two weeks of class, you will sign up to facilitate discussion for one week of the class (Weeks 3-8, 10-14).
 
-\
-Tips for Successful Facilitation 
 
-1.  **Assume a Prepared Audience:** A baseline assumption is that everyone has read the assigned materials for the week - while you may wish to review key concepts from those readings, strong facilitation will not include summarizing assigned content, since everyone should be prepared to discuss them. Strong facilitation may include providing discussion questions, examples, and scenarios that extend concepts from the readings.
+## Tips for Successful Facilitation 
+
+1.  **Assume a Prepared Audience:** A baseline assumption is that everyone has read the assigned materials for the week - while you may wish to review key concepts from those readings, strong facilitation *will not include summarizing assigned content*, since everyone should be prepared to discuss them. Strong facilitation may include providing discussion questions, examples, and scenarios that extend concepts from the readings.
 
 2.  **Guest Speakers:** There may be some weeks where the class would benefit from inviting a guest speaker as part of your facilitation. As we develop your facilitation plans, I can help you to invite and make arrangements for guest speakers, if this is desired.
 
 3.  **Changing Content:** Your facilitation may involve proposing changes or supplements to reading selections. Please outline these proposed changes as part of your facilitation plans.
 
-\

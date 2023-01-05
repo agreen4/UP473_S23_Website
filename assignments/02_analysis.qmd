@@ -37,7 +37,7 @@ Prepare your profile as a memorandum of approximately 3,000 words (6 single-spac
 
 In preparing your analysis, you may want to first look for other recent analyses of your local market. Good starting places would be to search for the most recent Analysis of Impediments to Fair Housing, local Analysis of Fair Housing, HUD Comprehensive Housing Market Analysis, or for housing analysis completed as part of a neighborhood, local, or regional plan.
 
-Please also note that I am not specifying or constraining the geography which you are required to conduct your analysis at. In selecting a particular geography, you\'ll need to think carefully about what make sense -- how does a particular geography constitute a housing market (or series of submarkets)? You will need to describe the definition you select and will need to justify your choice. Once you do, you should also plan to compare the characteristics of your local housing market (however you define it) to its region and the state in which it\'s located.
+Please also note that I am not specifying or constraining the geography which you are required to conduct your analysis at. In selecting a particular geography, you'll need to think carefully about what make sense -- how does a particular geography constitute a housing market (or series of submarkets)? You will need to describe the definition you select and will need to justify your choice. Once you do, you should also plan to compare the characteristics of your local housing market (however you define it) to its region and the state in which it's located.
 
 I encourage you to reach out to me as you work to define your market, to get confirmation that you have selected an appropriate geography. Keep in mind that you will be working with this selection over the course of the semester for your remaining assignments in the class.
 
@@ -45,7 +45,7 @@ I encourage you to reach out to me as you work to define your market, to get con
 
 Our [class data repository](https://github.com/agreen4/UP-473-S22-Code) includes R scripts as well as data tables for the primary indicators mentioned in this assignment.
 
-The Census Bureau\'s American Community Survey (ACS) is the first place to look for data that will help you to describe your housing market. The [data.census.gov](https://data.census.gov/) website allows you to query data for different survey years and geographies. To help you get started, I have downloaded data for the 2010 and 2019 5-year American Community Surveys at the census place level which are accessible on the course Box site. To successfully complete the assignment, you may also want to download data for other geographies or time periods on your own.
+The Census Bureau's American Community Survey (ACS) is the first place to look for data that will help you to describe your housing market. The [data.census.gov](https://data.census.gov/) website allows you to query data for different survey years and geographies. To help you get started, I have downloaded data for the 2010 and 2019 5-year American Community Surveys at the census place level which are accessible on the course Box site. To successfully complete the assignment, you may also want to download data for other geographies or time periods on your own.
 
 Below, you will find helpful information including ACS table numbers (e.g. the population table is B01003) as well as some guidance on initial analytical steps that will help you get started with your analysis:
 
@@ -95,15 +95,15 @@ You may remember from your past geometry training that the slope of a line can b
 
 slope = (y2−y1)(x2−x1)
 
-Let\'s calculate the change in population for a hypothetical location called Busytown. In 2010, the population of Busytown was 8,000 and by 2020 the population was 9,750. Here\'s how we would find the annual rate of population change for Busytown between 2010 and 2020:
+Let's calculate the change in population for a hypothetical location called Busytown. In 2010, the population of Busytown was 8,000 and by 2020 the population was 9,750. Here's how we would find the annual rate of population change for Busytown between 2010 and 2020:
 
 change = (9750−8000)(2020−2010)=175010=175
 
-Busytown\'s population increased by 1,750 over 10 years -- an increase of 175 people per year. If we assume that future population will grow at the same rate per year, we can now calculate the future population for Busytown in any future time period:
+Busytown's population increased by 1,750 over 10 years -- an increase of 175 people per year. If we assume that future population will grow at the same rate per year, we can now calculate the future population for Busytown in any future time period:
 
 PopulationFuture=PopulationBase+Change∗TimePeriods
 
-Here\'s the equation for Busytown assuming a base year of 2020, and projecting the population to 2030, which is 10 years in the future:
+Here's the equation for Busytown assuming a base year of 2020, and projecting the population to 2030, which is 10 years in the future:
 
 PopulationFuture=9750+175∗10
 
@@ -111,6 +111,6 @@ Therefore, we project that if the population grows at the same rate it did betwe
 
 ### Assignment Submission 
 
-Please submit your assignment components electronically via your Box Assignment Dropbox.
+Please submit your paper electronically via Canvas.
 
 \
