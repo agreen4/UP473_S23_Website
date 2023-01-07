@@ -7,15 +7,19 @@ editor: visual
 
 ## Description
 
-In our first course session, we\'ll discuss the overall layout and structure of our course. We\'ll spend time talking about the conceptual and practical reasons for examining housing and housing policies in the United States, and will explore the ways that housing has helped to shape our own life experiences. We\'ll also explore your existing perceptions and frameworks for thinking about the role of housing and housing policy in shaping the qualities and experience of place.
+In our first course session, we'll discuss the overall layout and structure of our course. We'll spend time talking about the conceptual and practical reasons for examining housing and housing policies in the United States, and will explore the ways that housing has helped to shape our own life experiences. We'll also explore your existing perceptions and frameworks for thinking about the role of housing and housing policy in shaping the qualities and experience of place.
 
 ## Learning Goals
 
 ## Readings
 
--   Course Syllabus
+-   [Course Syllabus](../syllabus/index.qmd)
 
--   Introductory Survey
+-   Course Introductory Survey [{{< fa regular globe >}}](https://forms.illinois.edu/sec/404416424)
+
+-   Schwartz Chapter 1 [{{< fa regular file >}}]()
+
+## In Class
 
 ## Slides
 
