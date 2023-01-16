@@ -7,15 +7,32 @@ editor: visual
 
 ## Description
 
-Enforcing fair housing policies requires substantial effort on the part of federal, state, and local agencies, but in many circumstances also places distinct burdens on housing providers and consumers. This week, we\'ll examine some of the frameworks for fair housing enforcement, as well as some of the barriers to the effective implementation of these strategies.
+Enforcing fair housing policies requires substantial effort on the part of federal, state, and local agencies, but in many circumstances also places distinct burdens on housing providers and consumers. This week, we'll examine some of the frameworks for fair housing enforcement, as well as some of the barriers to the effective implementation of these strategies.
 
 ## Learning Goals
 
+-   Understand the federal, state, and local infrastructure for monitoring and enforcing fair housing laws and rules.
+-   Understand the legal tests used to substantiate allegations of fair housing violations.
+-   Understand how advocates test for fair housing violations.
+-   Articulate and envision what future fair housing rules and rule making may entail.
+
 ## Readings
+
+Schwartz 11
+
+Last Week Tonight - Housing Discrimination
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_-0J49_9lwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Choi, Ann, Bill Dedman, Keither Herbert, and Olivia Winslow - Long Island Divided [{{< fa arrow-up-right-from-square >}}](https://projects.newsday.com/long-island/real-estate-agents-investigation/)
+
+Rothstein, Richard, The Color of Law (Chapter 3 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/b0v33tzq5y2qed0dzs6c1etqopxtslbl), Chapter 12 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/nsmxv02z218dv6xk506l4nqip5tkt8w3))
 
 ## Slides
 
 ## Additional Resources
+
+- New York Times - Selling Houses While Black
 
 -    [Disparate Impact and Fair Housing: Seven Cases You Should Know](https://www.propublica.org/article/disparate-impact-and-fair-housing-seven-cases-you-should-know)
 
@@ -23,6 +40,8 @@ Enforcing fair housing policies requires substantial effort on the part of feder
 
 -    [Housing Segregation in Everything](https://www.npr.org/sections/codeswitch/2018/04/11/601494521/video-housing-segregation-in-everything)
 
-<iframe width="100%" height="290" src="https://www.npr.org/player/embed/601131468/601396049" frameborder=0></iframe>
+<iframe width="100%" height="290" src="https://www.npr.org/player/embed/601131468/601396049" frameborder="0">
+
+</iframe>
 
 https://youtu.be/O5FBJyqfoLM

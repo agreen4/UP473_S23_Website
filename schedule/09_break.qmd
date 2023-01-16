@@ -1,5 +1,5 @@
 ---
-title: "Government Intervention in Housing"
+title: "Spring Break - No Class"
 format: html
 toc: true
 editor: visual
@@ -7,10 +7,4 @@ editor: visual
 
 ## Description
 
-## Learning Goals
-
-## Readings
-
-## Slides
-
-## Additional Resources
+Enjoy your spring break! Please be safe and be well.

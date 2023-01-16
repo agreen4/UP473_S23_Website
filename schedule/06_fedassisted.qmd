@@ -7,11 +7,19 @@ editor: visual
 
 ## Description
 
-Housing vouchers involve private market landlords to deliver affordable housing by paying a portion of the tenant\'s rent to make their share of the rent more affordable. Aside from delivering on housing quality and affordability promises, vouchers have become a major tool in the fight for housing choice, and have been used in both experimental programs and as legal remedies for racial and economic segregation. This week we\'ll explore the evolution of the voucher program and will examine the strengths and limitations of leveraging vouchers for affordability and accessibility of housing.
+Housing vouchers involve private market landlords to deliver affordable housing by paying a portion of the tenant's rent to make their share of the rent more affordable. Aside from delivering on housing quality and affordability promises, vouchers have become a major tool in the fight for housing choice, and have been used in both experimental programs and as legal remedies for racial and economic segregation. This week we'll explore the evolution of the voucher program and will examine the strengths and limitations of leveraging vouchers for affordability and accessibility of housing.
 
 ## Learning Goals
 
+-   Understand the primary rationale for the creation of the Housing Choice Voucher program.
+-   Understand the main arguments for policy experiments involving housing vouchers.
+-   Critically examine the program delivery model for the program, particularly in light of recent policy debates regarding housing instability and wellbeing.
+
 ## Readings
+
+Schwartz 8
+
+Rosen, Eva - *The Voucher Promise: Section 8 and the Fate of an American Neighborhood* Chapter 3 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/yzf6p0c4lcul6zcq260wkhukl0ynx0xk), Chapter 7 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/s54bhw2c0ldaex07244wm4yxsiqmtrfc)
 
 ## Slides
 

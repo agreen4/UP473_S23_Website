@@ -11,6 +11,10 @@ In our first course session, we'll discuss the overall layout and structure of o
 
 ## Learning Goals
 
+-   Introduce our course strucrure and broader goals.
+-   Introduce our learning community.
+-   Begin to question how housing structures elements of our lives.
+
 ## Readings
 
 -   [Course Syllabus](../syllabus/index.qmd)
@@ -20,6 +24,8 @@ In our first course session, we'll discuss the overall layout and structure of o
 -   Schwartz Chapter 1 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/osyqyyvsuajbi8y2eb10e70ye4jgpeqw)
 
 ## In Class
+
+In class, we will spend some time reading these articles. You will split into small groups to begin exploring their arguments and will work together to develop models of the housing system that relate to the arguments made in the articles. We'll take 10 minutes in class for you to re-familiarize yourself with the article you're going to present, but you may want to read these before class.
 
 Rent Going UP? One Company's Algorithm Could Be Why [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/sntwcxmlmpy5kxvcqf0qg0m98qyli091)
 

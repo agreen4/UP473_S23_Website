@@ -7,18 +7,29 @@ editor: visual
 
 ## Description
 
+This week we will explore the history and present reality of public housing in the United States. The public housing model has evolved significantly, especially over the last 20 years - we will track what physical, social, and economic phenomena led to this fundamental transformation, and will examine some of the policy debates regarding the potential future for public housing in the United States.
+
 ## Learning Goals
+
+-   Understand the basic model for how Federal public housing programs work.
+-   Articulate how the program has evolved over time, with a focus on the evolutionary forces that have shaped the program over the last 30 years.
+-   Understand the role of public housing aurhorities play in owning and operating public housing, including some of the challenges they face in the current policy and economic environment.
 
 ## Readings
 
-Schwartz
+Schwartz 6
 
--    Chapter 6
+The Case for Truly Public Housing [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/or9dsm07q9xgjju9s5xne49zipidrzs0)
 
--    Chapter 7
+Smith, Janet, Public Housing Transformation: Evolving National Policy [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/smx7aajkcgvifxiqfd9cvhmgp3o0mpez)
+
+Smith, Janet, Mixed-Income Communities: Designing Out Poverty or Pushing Out the Poor? [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/z18929q8ahkdk1am4frq1kms15rkuouy)
+
+Chicago Claims Its 22-Year "Transformation" Plan Revitalized 25,000 Homes - The Math Doesn't Add Up [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/lov4w66ibuuqcla19gzd69jxwjijgkre)
 
 ## Slides
 
 ## Additional Resources
 
+- Reconsidering Public Housing in America ([link](https://beltmag.com/national-public-housing-museum-reconsidering-public-housing-america/))
 -   [Greenlee, Lee, and McNamara, Performance of Small Public Housing Authorities: Opportunities and Barriers](https://www.jstor.org/stable/26524883?seq=1#metadata_info_tab_contents)

@@ -8,11 +8,3 @@ editor: visual
 ## Description
 
 This week, we will not meet during our typical class time. Instead, please use this time to advance your final projects, and schedule an office hours appointment if you'd like to talk more about your work.
-
-## Learning Goals
-
-## Readings
-
-## Slides
-
-## Additional Resources

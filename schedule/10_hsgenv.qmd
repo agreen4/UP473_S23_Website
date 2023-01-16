@@ -1,5 +1,5 @@
 ---
-title: "Government Intervention in Housing"
+title: "Regulating Housing Environments"
 format: html
 toc: true
 editor: visual
@@ -7,10 +7,29 @@ editor: visual
 
 ## Description
 
+So far in class, we've focused largely on how policy impacts housing at a collective, rather than individual level. At the same time, policy and regulations reach inside our individual homes, typically in order to address fundamental issues of health, safety, and welfare. During this week, we'll explore two particular cases that highlight ways in which our individual relationships to housing are regulated - residential pests and pest control and residential code enforcement - to explore the types of tradeoffs we see in the outcomes these regulations produce.
+
 ## Learning Goals
 
+-   Become familiar with household-scale regulations and regulatory institutions.
+-   Critically examine how such institutions balance enforcement and agency.
+-   Understand the social, political, and economic challenges associated with code enforcement.
+
 ## Readings
+
+Dawn Biehler - *Permeable Homes: A Historical Political Ecology of Insects and Pesticides in Public Housing* [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/nzbe7a4ot9ovjt9rcwq568avpfhjz1pc)
+
+Daniel Schneider - *They're Back: Municipal Responses to the Resurgence of Bed Bug Infestations* [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/8odop1dznswywuye6jfei3fy4nuk7sjm)
+
+Robin Bartram - *Cracks in Broken Windows: How Objects Shape Professional Evaluation* [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/xykikycmxc8okaty7ruqzlwb95qczni8)
+
+Local Housing Solutions - Housing Code Enforcement [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/zu5910bbl9mfdu1rgoc2qtoexf48rcuk)
+
 
 ## Slides
 
 ## Additional Resources
+
+- Cities for Responsible Investment and Strategic Enforcement, The Power & Proximity of Code Enforcement: A Tool for Equitable Neighborhoods [{{< fa arrow-up-right-from-square >}}](https://hesterstreet.org/wp-content/uploads/2019/07/CR_-Phase-I-_Equitable-Code-Enforcement-report_FINAL-JUNE-2019.pdf)
+
+- The Cost of Being Crime Free [{{< fa arrow-up-right-from-square >}}](https://www.povertylaw.org/wp-content/uploads/2020/10/cost-of-being-crime-free-rev-oct-2020.pdf)

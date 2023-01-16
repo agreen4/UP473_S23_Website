@@ -7,13 +7,23 @@ editor: visual
 
 ## Description
 
-Our nation is facing an unprecedented eviction crisis that has only been made worse by the economic instability caused by the pandemic. The pandemic has presented opportunities to directly target state and federal relief towards those households facing eviction, and has also opened up a broader conversation about the balance between landlord and tenant rights.
+Our nation is facing an unprecedented eviction crisis that has only been made worse by the economic instability caused by the pandemic. The pandemic presented opportunities to directly target state and federal relief towards those households facing eviction, and has also opened up a broader conversation about the balance between landlord and tenant rights.
 
-This week, we will explore some of the root causes for eviction and will add complexity to our understnding by examining some of the current policy debates for how to address this crisis.\
+This week, we will explore some of the root causes for eviction and will add complexity to our understanding by examining some of the current policy debates for how to address this crisis.
 
 ## Learning Goals
 
+-   Understand the legal process of eviction, as well as variations in its use and timing.
+-   Become familiar with how eviction is tracked by researchers and advocates.
+-   Understand the short-term and long-term impacts of eviction on households.
+
 ## Readings
+
+Matthew Desmond *Evicted*: Prologue [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/x4kjatw5l97aikcxghnq519ptuonh6nw), Chapter 2 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/szfssrl2he5m37e76wvb78pocmqgo7hm), Chapter 9 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/xz6g4ly1nd0iv7qn28mw3s0n87cxc2sq), Chapter 10 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/4mcai41n2wjpthhzcbudck2e76pvf8a6), Chapter 18 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/c84up1g7qlri5jds3hghueeb31hm6mx4), Epilogue [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/0s6f50cmyw9zsqzrpx7ceuo432n36zne)
+
+Last Week Tonight - Coronavirus: Evictions
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/R652nwUcJRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Slides
 
@@ -27,4 +37,4 @@ This week, we will explore some of the root causes for eviction and will add com
 
 -    [The Effect of Eviction Moratoria on the Transmission of SARS-CoV-2](https://www.nature.com/articles/s41467-021-22521-5)
 
--    [The Scarlet E: Unmasking America\'s Eviction Crisis](https://www.wnycstudios.org/podcasts/otm/scarlet-e-unmasking-americas-eviction-crisis)
+-    [The Scarlet E: Unmasking America's Eviction Crisis](https://www.wnycstudios.org/podcasts/otm/scarlet-e-unmasking-americas-eviction-crisis)

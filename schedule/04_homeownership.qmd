@@ -7,15 +7,27 @@ editor: visual
 
 ## Description
 
-This week, we\'ll explore the dynamics of homeownership in the United States, focusing on the evolution of access to capital for homeownership and how disparities in access to capital have important consequences for certain populations. We\'ll think about the evolution of the U.S. banking system and the ways in which financial innovation have changed who bears the risk in lending capital for homeownership. We\'ll also think about how those changes shift risk away from banks and towards capital investors and housing consumers.
+This week, we'll explore the dynamics of homeownership in the United States, focusing on the evolution of access to capital for homeownership and how disparities in access to capital have important consequences for certain populations. We'll think about the evolution of the U.S. banking system and the ways in which financial innovation have changed who bears the risk in lending capital for homeownership. We'll also think about how those changes shift risk away from banks and towards capital investors and housing consumers.
 
 ## Learning Goals
 
+-   Develop an understanding of homeownership as simultaneously a material and political project in the United States.
+-   Understand the evolution of key financial mechanisms that underscore homeownership.
+-   Articulate some of the risks and rewards associated with owner-occupied housing.
+
 ## Readings
+
+Keeyanga-Yamahtta Taylor - *How Real Estate Segregated America* [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/ysvbk93s48n8bb1p8ly91ns31gr529hi)
+
+Investor Home Purchases and the Rising Threat to Owners and Renters: Tales from 3 Cities [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/qj4ct4v5tumx08x484rxytatl31eqpon)
+
+Reid, Carolina - *Homeownership and the Racial and Ethnic Wealth Gap in the United States* [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/mfxcxqttmtzu5bdjl48sovnablhoci2y)
 
 ## Slides
 
 ## Additional Resources
+
+- 10 Years Later: How the Housing Market Has Changed Since the Crash [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/kgzl1093i1uqyp53t0h8nj4wk6pd4mi8)
 
 -    [Should the Community Reinvestment Act Consider Race?](https://www.urban.org/sites/default/files/publication/105283/should-the-community-reinvestment-act-consider-race_1.pdf)
 

@@ -7,7 +7,13 @@ editor: visual
 
 ## Description
 
+This week we will explore some of the rationale for government intervention in housing. We'll discuss how housing policy in the United States coalesced at mid-century, and will compare some of the policy goals and strategies from that time to those at present. We'll question how much the mid-century housing crisis has evolved in terms of actors, finance, and material conditions for occupants, and will question how government intervention in housing relates to a range of other social and economic policy questions and concerns.
+
 ## Learning Goals
+
+-   Understand the "crisis" conditions at mid-century that prompted the consolidation of policy for housing in the United States.
+-   Understand how interventions in housing relate to a range of other urban policy phenomena and outcomes.
+-   Become familiar with contemporary policy questions and concerns, and understand how these relate to past questions and concerns.
 
 ## Readings
 
@@ -19,7 +25,9 @@ Coates, Ta-Nehisi, The Ghetto is Public Policy [{{< fa arrow-up-right-from-squar
 
 America's Last Affordable Housing is Under Threat
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9DQa3Ajhzv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9DQa3Ajhzv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
 
 ## Slides
 
