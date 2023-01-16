@@ -7,16 +7,25 @@ editor: visual
 
 ## Description
 
-Housing conditions and measures can help us understand why and how housing matters.
+Housing conditions and measures can help us understand why and how housing matters. This week, we'll start to explore evidence for how well we are housed in the United States, and will examine some of the common discourses and factors surrounding policy debates around housing.
 
 ## Learning Goals
 
 ## Readings
 
+Schwartz 2
+
+The Housing Crisis is Breaking People's Brains [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/11nkrojyk6n6q1qtz89srf3wp8qfdx5z)
+
+Deconstructing the "Housing Crisis" [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/samsjyad1cx6ym9m9fip9wy306zlw7rm)
+
+Harvard Joint Center for Housing Studies State of the Nation's Housing (2022) - read the executive summary and skim contents  [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/uju0jrlvu6rwao12pyoo5xuyk453gqxr)
+
 ## Slides
 
 ## Additional Resources
 
+- What to Expect in 2023's Housing Market [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/84ohyr5f3b12kc4liksusah9lqqr221k)
 -    [A Refugee Crisis Runs Into a Housing Crisis](https://www.nytimes.com/2021/12/15/us/afghan-refugees-housing.html)
 
 -    [Cizek, Katerina, \*A Short History of the Highrise](https://www.nytimes.com/video/opinion/100000002465058/a-short-history-of-the-highrise-part-1.html?playlistId=100000001150263)

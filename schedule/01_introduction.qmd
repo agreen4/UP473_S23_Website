@@ -15,11 +15,19 @@ In our first course session, we'll discuss the overall layout and structure of o
 
 -   [Course Syllabus](../syllabus/index.qmd)
 
--   Course Introductory Survey [{{< fa regular globe >}}](https://forms.illinois.edu/sec/404416424)
+-   Course Introductory Survey [{{< fa arrow-up-right-from-square >}}](https://forms.illinois.edu/sec/404416424)
 
--   Schwartz Chapter 1 [{{< fa regular file >}}]()
+-   Schwartz Chapter 1 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/osyqyyvsuajbi8y2eb10e70ye4jgpeqw)
 
 ## In Class
+
+Rent Going UP? One Company's Algorithm Could Be Why [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/sntwcxmlmpy5kxvcqf0qg0m98qyli091)
+
+The Rent Revolution is Coming [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/qk2y64gq7qkjmqmrxjvtccnlkybej7l6)
+
+Her Apartment Might Have Put Her Son's Health At Risk [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/ft9vhf2y8dsf6v6a7cf9176128k2p5gy)
+
+The First Gen Z Member of Congress was Denied a D.C. Apartment Due to Bad Credit [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/37s4fk38vzzupq2hdw5lw5f1577cb5da) and Urban Institute Coverage \[[{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/tuxmkgwfnk577ndxbyjm7no8osq5rr3f)
 
 ## Slides
 
