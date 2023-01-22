@@ -25,9 +25,54 @@ Deconstructing the "Housing Crisis" [{{< fa arrow-up-right-from-square >}}](http
 
 Harvard Joint Center for Housing Studies State of the Nation's Housing (2022) - read the executive summary and skim contents [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/uju0jrlvu6rwao12pyoo5xuyk453gqxr)
 
+## Recall
+
+Here are the items you all surfaced during our first session on the nature of the *short term* and *long term* crisis in housing:
+
+### Short-term issues
+
+1.  High rent / high housing costs
+2.  Eviction
+3.  Gentrification
+4.  Platform technology (AirBnB, etc.)
+5.  Low supply, high demand (plus "stickiness")
+6.  Wage/income issues
+7.  Inflation
+8.  Low social capital
+
+### Long-term issues
+
+1.  Homelessness
+2.  Low-density development
+3.  Accessibility
+4.  Loss of community and displacement
+
+We'll continue building upon these lists and adding additional evidence this week.
+
+## Reflect
+
+1.  How could we reframe public narrative around supply skepticism and shortage denialism to guide the development of new (affordable) housing?
+2.  Why might housing production and price issues start in coastal states and then spread elsewhere in the U.S.?
+3.  How would you develop a mental model of the housing production and delivery system? Within this model, where would you situate the 13 different crises discussed
+    1.  There is a lack of housing available to lower-income and low-wealth individuals and families.
+    2.  The median (or mean) price of housing has become too expensive.
+    3.  There is a severe rental housing crisis.
+    4.  There is a housing production deficit problem.
+    5.  There is a jobs/housing imbalance problem.
+    6.  There is a related problem of the jobs/housing fit.
+    7.  There is the problem of sprawl.
+    8.  There is an eviction crisis.
+    9.  There is a homelessness crisis.
+    10. There is a gentrification and displacement crisis.
+    11. There is a worsening racial divide in homeownership rates.
+    12. There is a serious problem of exclusionary zoning.
+    13. There remains a fair housing crisis.
+
 ## Slides
 
 ## Additional Resources
+
+-   [Assignment 1 Prompt](../assignments/01_intersection.qmd)
 
 -   What to Expect in 2023's Housing Market [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/84ohyr5f3b12kc4liksusah9lqqr221k)
 
