@@ -70,6 +70,10 @@ We'll continue building upon these lists and adding additional evidence this wee
 
 ## Slides
 
+## In Class
+
+Collective Slide Deck [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/2eyetthuc0bfkeh6qx79w0b1whgrjuni)
+
 ## Additional Resources
 
 -   [Assignment 1 Prompt](../assignments/01_intersection.qmd)
