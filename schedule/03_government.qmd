@@ -15,6 +15,10 @@ This week we will explore some of the rationale for government intervention in h
 -   Understand how interventions in housing relate to a range of other urban policy phenomena and outcomes.
 -   Become familiar with contemporary policy questions and concerns, and understand how these relate to past questions and concerns.
 
+## Discussant Sign Up
+
+Before our class on Monday, please [sign up](https://docs.google.com/spreadsheets/d/1vdQX4bEqMdoT2ZrwOmIw6MF3sL2miaEQqSPRnvNayVE/edit?usp=sharing) to serve as a discussant for one class session. You will need to log in with your Illinois NetID to edit and add your name.
+
 ## Readings
 
 Bauer, Catherine, Social Questions in Housing and Community Planning [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/exxtmliq9ku3mt582js7p886ua0n5duc)
@@ -29,6 +33,62 @@ America's Last Affordable Housing is Under Threat
 
 </iframe>
 
+## Reflect
+
+1. Based upon Catherine Bauer’s 1951 account, what is the rationale for government intervention in housing?
+
+2. What social questions would you raise around housing intervention in 2023?
+
+3. The Coates article describes the continued legacy of bias which has led to disparate outcomes as a result of our national intervention strategies. What lessons should we learn for subsequent interventions?
+
+4. In cases similar to the Vice video, should the government have a role in mediating the terms of ownership of a mobile home park? Can the government ensure a private development like this is both safe and affordable?
+
+## Collaborate - In Class
+
+In class, you'll split into three groups to work on developing a policy intervention based on one of three scenarios. Here are the descriptions of those three scenarios:
+
+### Prompt
+
+You are a team of experts working to advise Congress as to what to do about one of these situations. Congress has asked for a short (3 slide) presentation that describes a preferred national policy strategy focused on intervention.
+
+1. Spend around 10 minutes discussing the problem and thinking about potential policy solutions to recommend to Congress.
+
+2. Spend around 10 minutes drafting out your policy strategy.
+
+- **Concept and Rationale** - What is the rationale for intervention, what is it designed to do?
+
+- **Scale** - please describe the scale of intervention
+
+- **Scope** - please describe how the intervention will alter supply and demand for housing, and who it is targeted towards
+
+- **Institutions and Actors** - please describe which institutions and actors must be involved in the intervention. While some institutions and actors may implicitly be involved, you should describe them explicitly.
+
+3. Spend around 10 minutes designing your presentation which should consist of the following:
+
+- **Slide 1** should describe the problem, and should raise the main questions which experts identified that would help to define the problem.
+
+- **Slide 2** should present a visual schematic of the housing system and institutional actors involved in your proposed intervention (similar to the one which we have previously viewed in class).
+
+- **Slide 3** should describe desired policy goals and measurable indicators of policy efficacy (success).
+
+Your group will have **10 minutes** each to provide recomendations to Congress. 
+
+### Scenario 1
+
+The country is in the process of recovering from a major recession. At the worst point in that recession, 50 percent of mortgages were in default. At present, the national homeownership rate is around 43 percent. Banks remain wary of making loans, although there is increased demand for housing within cities. The Department of Labor has already established a special homeownership incentive, offering mortgage guarantees for workers under the age of 35, however, many of these workers continue to struggle to find housing they can afford, particularly in cities. 
+
+### Scenario 2
+
+The country has been gripped by protests regarding the state of race relations and the treatment of minorities by government officials. Cities are largely segregated by race and income, and have been further damaged by looting and rioting. There is strong public demand for fairer treatment, including the desegregation of neighborhoods and integration of schools. The homeownership rate is around 62 percent. Local governments have expressed concern about policies impacting local stability and the prospect of rapid change.
+
+### Scenario 3
+
+The country’s social safety net housing stock for low-income individuals is aging and has suffered due to poor maintenance and disinvestment. A spate of very visible news coverage has created public discourse about severe distress of the housing, and has also depicted decaying social conditions. This housing contains some of the highest concentrations of poverty in the country, but is often located near very high-value housing markets, making the land upon which the decaying housing rests very valuable. There is substantial public concern about concentrated poverty, violence, and disorder in these neighborhoods. There is also substantial public and political concern about spending the money necessary to fix up or replace the existing housing with comparable modern units targeted solely for individuals who need the social safety net. The national homeownership rate is around 62 percent.
+
 ## Slides
+
+```{=html}
+<iframe class="slide-deck" src="4. Government Intervention/index.html" style="width:100%;height:50vh;margin:0;padding:0"; frameborder="2"></iframe>
+```
 
 ## Additional Resources

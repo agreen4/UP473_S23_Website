@@ -70,6 +70,13 @@ We'll continue building upon these lists and adding additional evidence this wee
 
 ## Slides
 
+```{=html}
+<iframe class="slide-deck" src="2. Framework for Analysis/index.html" style="width:100%;height:50vh;margin:0;padding:0"; frameborder="2"></iframe>
+```
+
+```{=html}
+<iframe class="slide-deck" src="3. Who Gets What Housing/index.html" style="width:100%;height:50vh;margin:0;padding:0"; frameborder="2"></iframe>
+```
 ## In Class
 
 Collective Slide Deck [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/2eyetthuc0bfkeh6qx79w0b1whgrjuni)
