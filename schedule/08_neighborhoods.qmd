@@ -9,6 +9,10 @@ editor: visual
 
 A primary theme of our class has been the enduring significance of neighborhoods for housing. We've looked at how these patterns of differentiation oftentimes overlay down to the block with patterns of racial and economic segregation. We've also looked at a range of policy tools used to address segregation and disinvestment in neighborhoods. So why despite all of these efforts are there such marked differences between neighborhoods and their power to support intergenerational wealth transfer and mobility?
 
+### Discussants
+
+Fatima and Juliana
+
 ## Learning Goals
 
 -   Understand arguments for why segregation remains a major social and policy issue within the United States.
@@ -23,17 +27,16 @@ Prochaska, Natalie - *"Old" URban Renewal in Champaign-Urbana, 1960-1969* [{{< f
 
 Governing Magazine Segregated in the Heartland Series [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/ab9t9nm0wkpk1w1durlctke3cqwwgxus)
 
-- How States and Cities Reinforce Racial Segregation in America [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/l1u9uvck6nuovybmncyx5e5zjqrz3fzp)
-- How Schools Fuel White Flight [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/wy8xt2y2gnpwrxkb2m916lamygt8qgef)
-- How Housing Policies Keep White Neighborhoods so White and Black Neighborhoods So Black [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/80opkndukixmoiev7ill1vzo1inu8p1f)
-- How Police and Anti-Crime Measures Reinforce Segregation [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/tj2hlkoxlj89avpou8icinwfxcmrnjmg)
-	
+-   How States and Cities Reinforce Racial Segregation in America [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/l1u9uvck6nuovybmncyx5e5zjqrz3fzp)
+-   How Schools Fuel White Flight [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/wy8xt2y2gnpwrxkb2m916lamygt8qgef)
+-   How Housing Policies Keep White Neighborhoods so White and Black Neighborhoods So Black [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/80opkndukixmoiev7ill1vzo1inu8p1f)
+-   How Police and Anti-Crime Measures Reinforce Segregation [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/tj2hlkoxlj89avpou8icinwfxcmrnjmg)
 
 ## Slides
 
 ## Additional Resources
 
-- Galster, George, and Patrick Sharkey - *Spatial Foundations of Inequality A Conceptual Framework* [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/x6ujv7t7grpvz2czsj2n0hhe6fpzssnm)
+-   Galster, George, and Patrick Sharkey - *Spatial Foundations of Inequality A Conceptual Framework* [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/x6ujv7t7grpvz2czsj2n0hhe6fpzssnm)
 
 -    [Baker, Dwayne, Esteban Lopez, and Andrew Greenlee, Transit Development and Housing Displacement: The Case of the Chicago Red Line Extension](https://www.tandfonline.com/doi/full/10.1080/14036096.2017.1284155)
 

@@ -9,6 +9,10 @@ editor: visual
 
 Enforcing fair housing policies requires substantial effort on the part of federal, state, and local agencies, but in many circumstances also places distinct burdens on housing providers and consumers. This week, we'll examine some of the frameworks for fair housing enforcement, as well as some of the barriers to the effective implementation of these strategies.
 
+### Discussants
+
+Dominique
+
 ## Learning Goals
 
 -   Understand the federal, state, and local infrastructure for monitoring and enforcing fair housing laws and rules.
@@ -22,7 +26,9 @@ Schwartz 11
 
 Last Week Tonight - Housing Discrimination
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_-0J49_9lwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_-0J49_9lwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
 
 Choi, Ann, Bill Dedman, Keither Herbert, and Olivia Winslow - Long Island Divided [{{< fa arrow-up-right-from-square >}}](https://projects.newsday.com/long-island/real-estate-agents-investigation/)
 
@@ -32,7 +38,7 @@ Rothstein, Richard, The Color of Law (Chapter 3 [{{< fa arrow-up-right-from-squa
 
 ## Additional Resources
 
-- New York Times - Selling Houses While Black
+-   New York Times - Selling Houses While Black
 
 -    [Disparate Impact and Fair Housing: Seven Cases You Should Know](https://www.propublica.org/article/disparate-impact-and-fair-housing-seven-cases-you-should-know)
 

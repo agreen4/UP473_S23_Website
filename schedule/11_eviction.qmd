@@ -11,6 +11,10 @@ Our nation is facing an unprecedented eviction crisis that has only been made wo
 
 This week, we will explore some of the root causes for eviction and will add complexity to our understanding by examining some of the current policy debates for how to address this crisis.
 
+### Discussants
+
+Fiona and Daisy
+
 ## Learning Goals
 
 -   Understand the legal process of eviction, as well as variations in its use and timing.
@@ -23,7 +27,9 @@ Matthew Desmond *Evicted*: Prologue [{{< fa arrow-up-right-from-square >}}](http
 
 Last Week Tonight - Coronavirus: Evictions
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/R652nwUcJRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/R652nwUcJRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
 
 ## Slides
 

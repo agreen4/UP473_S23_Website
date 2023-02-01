@@ -9,6 +9,10 @@ editor: visual
 
 This week, we'll explore the dynamics of homeownership in the United States, focusing on the evolution of access to capital for homeownership and how disparities in access to capital have important consequences for certain populations. We'll think about the evolution of the U.S. banking system and the ways in which financial innovation have changed who bears the risk in lending capital for homeownership. We'll also think about how those changes shift risk away from banks and towards capital investors and housing consumers.
 
+### Discussants
+
+Tillie and Dorian
+
 ## Learning Goals
 
 -   Develop an understanding of homeownership as simultaneously a material and political project in the United States.
@@ -27,7 +31,7 @@ Reid, Carolina - *Homeownership and the Racial and Ethnic Wealth Gap in the Unit
 
 ## Additional Resources
 
-- 10 Years Later: How the Housing Market Has Changed Since the Crash [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/kgzl1093i1uqyp53t0h8nj4wk6pd4mi8)
+-   10 Years Later: How the Housing Market Has Changed Since the Crash [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/kgzl1093i1uqyp53t0h8nj4wk6pd4mi8)
 
 -    [Should the Community Reinvestment Act Consider Race?](https://www.urban.org/sites/default/files/publication/105283/should-the-community-reinvestment-act-consider-race_1.pdf)
 

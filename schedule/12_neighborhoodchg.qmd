@@ -9,6 +9,10 @@ editor: visual
 
 This week we will explore the causes and consequences of neighborhood change. We will examine some of the theory surrounding neighborhood change, and, drawing from local and national examples, we'll look at the ways in which analysts qualify outcomes from this change over time.
 
+### Discussants
+
+Colt and Caelin
+
 ## Learning Goals
 
 -   Understand the common economic and social theories that explain neighborhood change.

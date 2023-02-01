@@ -40,5 +40,4 @@ The First Gen Z Member of Congress was Denied a D.C. Apartment Due to Bad Credit
 ```{=html}
 <iframe class="slide-deck" src="1. Course Introduction/index.html" style="width:100%;height:50vh;margin:0;padding:0"; frameborder="2"></iframe>
 ```
-
 ## Additional Resources

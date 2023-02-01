@@ -9,6 +9,10 @@ editor: visual
 
 So far in class, we've focused largely on how policy impacts housing at a collective, rather than individual level. At the same time, policy and regulations reach inside our individual homes, typically in order to address fundamental issues of health, safety, and welfare. During this week, we'll explore two particular cases that highlight ways in which our individual relationships to housing are regulated - residential pests and pest control and residential code enforcement - to explore the types of tradeoffs we see in the outcomes these regulations produce.
 
+### Discussants
+
+Margaret
+
 ## Learning Goals
 
 -   Become familiar with household-scale regulations and regulatory institutions.
@@ -25,11 +29,10 @@ Robin Bartram - *Cracks in Broken Windows: How Objects Shape Professional Evalua
 
 Local Housing Solutions - Housing Code Enforcement [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/zu5910bbl9mfdu1rgoc2qtoexf48rcuk)
 
-
 ## Slides
 
 ## Additional Resources
 
-- Cities for Responsible Investment and Strategic Enforcement, The Power & Proximity of Code Enforcement: A Tool for Equitable Neighborhoods [{{< fa arrow-up-right-from-square >}}](https://hesterstreet.org/wp-content/uploads/2019/07/CR_-Phase-I-_Equitable-Code-Enforcement-report_FINAL-JUNE-2019.pdf)
+-   Cities for Responsible Investment and Strategic Enforcement, The Power & Proximity of Code Enforcement: A Tool for Equitable Neighborhoods [{{< fa arrow-up-right-from-square >}}](https://hesterstreet.org/wp-content/uploads/2019/07/CR_-Phase-I-_Equitable-Code-Enforcement-report_FINAL-JUNE-2019.pdf)
 
-- The Cost of Being Crime Free [{{< fa arrow-up-right-from-square >}}](https://www.povertylaw.org/wp-content/uploads/2020/10/cost-of-being-crime-free-rev-oct-2020.pdf)
+-   The Cost of Being Crime Free [{{< fa arrow-up-right-from-square >}}](https://www.povertylaw.org/wp-content/uploads/2020/10/cost-of-being-crime-free-rev-oct-2020.pdf)

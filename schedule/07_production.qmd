@@ -9,6 +9,10 @@ editor: visual
 
 This week we will examine a range of housing production strategies, many that involve public-private partnerships or incentives to deliver affordable housing. We'll also talk about the Opportunity Zone program which leverages tax benefits to investors for investments in eligible underinvested neighborhoods.
 
+### Discussants
+
+Rafi and Temka
+
 ## Learning Goals
 
 -   Understand why governments might incentivize capital investment in distressed neighborhoods.
@@ -23,7 +27,6 @@ Schwartz
 -   Chapter 5
 
 -   Chapter 7
-
 
 ## Slides
 

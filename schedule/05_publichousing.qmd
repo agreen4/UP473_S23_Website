@@ -9,6 +9,10 @@ editor: visual
 
 This week we will explore the history and present reality of public housing in the United States. The public housing model has evolved significantly, especially over the last 20 years - we will track what physical, social, and economic phenomena led to this fundamental transformation, and will examine some of the policy debates regarding the potential future for public housing in the United States.
 
+### Discussants
+
+Zane
+
 ## Learning Goals
 
 -   Understand the basic model for how Federal public housing programs work.
@@ -31,5 +35,5 @@ Chicago Claims Its 22-Year "Transformation" Plan Revitalized 25,000 Homes - The 
 
 ## Additional Resources
 
-- Reconsidering Public Housing in America ([link](https://beltmag.com/national-public-housing-museum-reconsidering-public-housing-america/))
+-   Reconsidering Public Housing in America ([link](https://beltmag.com/national-public-housing-museum-reconsidering-public-housing-america/))
 -   [Greenlee, Lee, and McNamara, Performance of Small Public Housing Authorities: Opportunities and Barriers](https://www.jstor.org/stable/26524883?seq=1#metadata_info_tab_contents)
