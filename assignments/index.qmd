@@ -8,10 +8,10 @@ editor: visual
 Assignments in Housing and Urban Policy are designed to offer the opportunity to explore the issues, policies, and practices of professionals engaging these issues. Your assignments are designed to build upon each other and culminate for undergraduates with the production of a housing policy analysis, for Master's students with a professional housing policy platform, and for Doctoral students with the production of a term paper. In addition to these individual assignments, you will all take turns facilitating class discussion - an important contribution to us building a shared body of knowledge together.
 
 | Assignment                                       | Undergraduate | Masters | Doctoral | Due Date    |
-|----------------------|-------------|-------------|-------------|-------------|
+|-----------------|--------------|--------------|--------------|--------------|
 | [Exploring an Intersection](01_intersection.qmd) | 20%           | 10%     | 10%      | February 12 |
 | [Local Housing Market Analysis](02_analysis.qmd) | 20%           | 10%     |          | March 19    |
-| [Housing Needs Analysis](03_needs.qmd)           | 20%           | 10%     |          | April 9     |
+| [Housing Needs Analysis](03_needs.qmd)           | 20%           | 10%     |          | April 16    |
 | [Housing Policy Analysis](04_policy.qmd)         | 30%           | 10%     |          | May 7       |
 | [Housing Platform](05_proposal.qmd)              |               | 50%     |          | May 12      |
 | [Term Paper](07_term.qmd)                        |               |         | 80%      | May 12      |
